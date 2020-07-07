@@ -18,4 +18,4 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
-[https://quizzical-galileo-95cd9d.netlify.app/](Netlify)
+[(Netlify)](https://quizzical-galileo-95cd9d.netlify.app/)
